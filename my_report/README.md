@@ -1,8 +1,8 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
+### First and Last Name: Artemis Maria Malliakoudi
+### University Registration Number: dpsd19070
+### GitHub Personal Profile: Artem1sM
 ### Digital & Serious Games Personal Repository: xxx
 
 # Introduction
