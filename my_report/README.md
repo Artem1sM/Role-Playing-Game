@@ -3,7 +3,7 @@
 ### First and Last Name: Artemis Maria Malliakoudi
 ### University Registration Number: dpsd19070
 ### GitHub Personal Profile: https://github.com/Artem1sM
-### Digital & Serious Games Personal Repository: artem1sm.github.io/Role-Playing-Game/
+### Digital & Serious Games Personal Repository: https://github.com/Artem1sM/Role-Playing-Game
 
 # Introduction
 Δημιουργία ψηφιακού παιχνιδιού μέσα απο την πρόγραμμα unity που θα μπορεί να παιχτεί από browser και html5.   
